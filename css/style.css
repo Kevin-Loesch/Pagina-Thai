@@ -1,0 +1,126 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.time {
+    list-style: none;
+}
+
+.list {
+    color: rgb(68, 19, 86);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+
+.lista {
+    color: rgb(68, 19, 86);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 15px;
+    list-style: none;
+}
+
+body {
+    background: #f8d4d4;
+    display: grid;
+    align-items: center;
+    margin-top: 0px;
+}
+
+.tudo {
+    margin: 50px;
+}
+
+h1 {
+    color: rgb(68, 19, 86);
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p1 {
+    color: rgb(68, 19, 86); 
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+.p3 {
+    color: rgb(68, 19, 86); 
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+.p {
+    color: rgb(68, 19, 86); 
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pultimo {
+    color: rgb(68, 19, 86); 
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 25px;
+}
+h2 {
+    color: rgb(68, 19, 86); 
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(68, 19, 86); 
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 25px;
+}
+
+.imagemteste {
+    width: 100%;
+}
+
+.countdown {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 300px));
+    justify-content: center;
+    gap: 5px;
+    padding: 5px;
+    margin-top: 0px;
+    background-color: #f8d4d4;
+
+}
+
+.countdown li {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-size: 25px;
+    padding: 1rem;
+    color: rgb(68, 19, 86);
+    background-color: #8ba497;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px rgb(255, 255, 255);
+    text-align: center;
+    margin: 0px;
+
+}
+
+.countdown li span {
+    font-style: normal;
+    font-size: larger;
+}
+/* .texto-inicial {
+    color: white;
+
+}
+.texto-foto {
+    margin-right: 0px;
+} */
