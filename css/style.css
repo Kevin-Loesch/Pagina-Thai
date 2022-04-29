@@ -22,8 +22,8 @@ body {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(50px, 150px));
     justify-content: center;
-    gap: 5px;
-    padding: 5px;
+    gap: 2.5px;
+    padding: 2.5px;
     margin-top: 0px;
     background-color: #ffefe0;
 
@@ -32,11 +32,11 @@ body {
 .countdown li {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: normal;
-    font-size: 25px;
+    font-size: 12.5px;
     padding: 1rem;
     color: rgb(255, 255, 255);
     background-color: #6ba562;
-    border-radius: 5px;
+    border-radius: 2.5px;
     box-shadow: 1px 1px 1px #247217;
     text-align: center;
     margin: 0px;
