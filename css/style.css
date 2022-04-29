@@ -56,14 +56,14 @@ body {
 }
 .btn-wrap button{
     color: white;
-    font-size: 25px;
+    font-size: 180%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position:absolute;
     z-index:1;
     top:18%;
     left:30%;
-    width:303px;
-    height:70px;
+    width:43%;
+    height:17%;
     padding:0;
     margin:-1px 0 0 -3px;
     border:0 none;
@@ -82,14 +82,14 @@ body {
 }
 .btn-wrapA button{
     color: white;
-    font-size: 25px;
+    font-size: 180%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position:absolute;
     z-index:1;
     top:16%;
     left:30%;
-    width:303px;
-    height:70px;
+    width:43%;
+    height:17%;
     padding:0;
     margin:-1px 0 0 -3px;
     border:0 none;
@@ -108,14 +108,14 @@ body {
 }
 .btn-wrapB button{
     color: white;
-    font-size: 25px;
+    font-size: 180%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position:absolute;
     z-index:1;
     top:16%;
     left:30%;
-    width:303px;
-    height:70px;
+    width:43%;
+    height:17%;
     padding:0;
     margin:-1px 0 0 -3px;
     border:0 none;
