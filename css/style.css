@@ -20,13 +20,12 @@ body {
 
 .countdown {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(50px, 150px));
+    grid-template-columns: repeat(auto-fit, minmax(50px, 20%));
     justify-content: center;
     gap: 2.5px;
     padding: 2.5px;
     margin-top: 0px;
     background-color: #ffefe0;
-
 }
 
 .countdown li {
@@ -40,15 +39,15 @@ body {
     box-shadow: 1px 1px 1px #247217;
     text-align: center;
     margin: 0px;
-
+    max-height: 32px;
+    max-width: 573px;
 }
 
 .countdown li span {
     font-style: normal;
     font-size: larger;
+    min-width: 93px;
 }
-
-
 
 .btn-wrap{
     position:relative;
