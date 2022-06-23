@@ -2,6 +2,13 @@
     margin: 0px;
     padding: 0px;
 }
+.pp{
+    text-align: center;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: inherit ;
+}
+
 
 .time {
     list-style: none;
@@ -57,14 +64,14 @@ body {
 .btn-wrap a{
     position:absolute;
     z-index:1;
-    top: 19%;
+    top: 18%;
     left:30%;
-    width:43%;
+    width:40%;
     height:17%;
     padding:0;
     margin:-1px 0 0 -3px;
     border:0 none;
-    background-color:#a58f62 ;
+    background-color:#5c952a ;
     border-radius: 100px;
     cursor: pointer;
 }
@@ -95,7 +102,7 @@ body {
     padding:0;
     margin:-1px 0 0 -3px;
     border:0 none;
-    background-color:#a58f62 ;
+    background-color:#5c952a ;
     border-radius: 100px;
     cursor: pointer;
 }
@@ -113,13 +120,14 @@ body {
     z-index:1;
     top:25%;
     left:30%;
-    width:43%;
+    width:45%;
     height:17%;
     padding:0;
     margin:-1px 0 0 -3px;
     border:0 none;
     border-radius: 100px;
     cursor: pointer;
+    background-color:#5c952a;
 }
 
 .btn-wrapB a:hover {
@@ -130,7 +138,7 @@ body {
     position:absolute;
     z-index:1;
     top:1386%;
-    left:30%;
+    left:28%;
     width:43%;
     height:17%;
     padding:0;
@@ -138,6 +146,7 @@ body {
     border:0 none;
     border-radius: 100px;
     cursor: pointer;
+    background-color: #5c952a;
 }
 
 .btn-wrapC a:hover {

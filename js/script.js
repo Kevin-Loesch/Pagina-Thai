@@ -1,6 +1,6 @@
 import Countdown from "./countdown.js";
 
-const tempoRestante = new Countdown("29 juni 2022 09:00:00 GMT-0300");
+const tempoRestante = new Countdown("23 juni 2022 22:00:00 GMT-0300");
 const tempos = document.querySelectorAll("[data-time]");
 
 function Mostrartempo() {
