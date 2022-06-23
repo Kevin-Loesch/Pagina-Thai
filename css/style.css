@@ -134,19 +134,25 @@ body {
     background-color: #a58f62;
 }
 
+.btn-wrapC{
+    position:relative;
+    text-align:center;
+}
+
+
 .btn-wrapC a{
     position:absolute;
     z-index:1;
-    top:1396%;
-    left:28%;
-    width:43%;
+    top:10%;
+    left:30%;
+    width:45%;
     height:17%;
     padding:0;
     margin:-1px 0 0 -3px;
     border:0 none;
     border-radius: 100px;
     cursor: pointer;
-    background-color: #eaa800;
+    background-color:#eaa800;
 }
 
 .btn-wrapC a:hover {
